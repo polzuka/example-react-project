@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_translator"
+			],
+			[
+				"ava",
+				"available_from"
+			],
+			[
+				"avail",
+				"available_from"
+			],
+			[
+				"translator_",
+				"translator_edit_form"
+			],
+			[
+				"lan",
+				"language_enum"
+			],
+			[
+				"create",
+				"createChat"
+			],
+			[
+				"getChat",
+				"getChatCreationForm"
+			],
+			[
+				"getC",
+				"getChatCreationForm"
+			],
+			[
+				"on",
+				"onCtrlEnter"
+			],
+			[
+				"sen",
+				"sendMessage"
+			],
+			[
+				"render",
+				"renderedMessage"
+			],
+			[
+				"conn",
+				"connectionId"
+			],
+			[
+				"dle",
+				"deleteConnection"
+			],
+			[
+				"uu",
+				"uuidv4"
+			],
+			[
+				"conne",
+				"connectionsOfChat"
+			],
+			[
+				"chat",
+				"chatId"
+			],
+			[
+				"atta",
+				"attachements"
+			],
+			[
+				"par",
+				"parseAttachment"
+			],
+			[
+				"rate",
+				"rate_in_error"
+			],
+			[
+				"null",
+				"nullif"
+			],
+			[
+				"stage",
+				"stage_total_qty"
+			],
+			[
+				"pc_in",
+				"pc_in_done"
+			],
+			[
+				"pc_",
+				"pc_with_res"
+			],
+			[
+				"pc",
+				"pc_of_prev"
+			],
+			[
+				"get",
+				"get_server_results"
+			],
+			[
+				"proce",
+				"domain_processing_stages_enum"
+			],
+			[
+				"processing",
+				"processing_stage"
+			],
+			[
+				"get_s",
+				"get_social_links_results"
+			],
+			[
+				"dete",
+				"detect_contacts_page_results"
+			],
+			[
+				"get_",
+				"get_processing_language"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ssng",
+				"Set Syntax: nginx"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: Pug"
+			],
+			[
+				"sspu",
+				"Set Syntax: Pug"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 479.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/polzuka/tranchat/src/lib/ManagesChatsTranslators.js",
+		"/home/polzuka/tranchat/src/site/middlewares/locals.js",
+		"/home/polzuka/tranchat/src/lib/ManagesUsers.js",
+		"/home/polzuka/tranchat/src/db/migrations/V0019__public_contacts.sql",
+		"/home/polzuka/tranchat/docker/node.dockerfile",
+		"/home/polzuka/tranchat/src/site/locales/en.json",
+		"/home/polzuka/tranchat/src/site/public/custom/css/index.css",
+		"/home/polzuka/tranchat/src/site/views/chat.pug",
+		"/home/polzuka/tranchat/src/site/views/index.pug",
+		"/home/polzuka/tranchat/src/site/views/navbar.pug",
+		"/home/polzuka/tranchat/src/site/views/faq/ru.pug",
+		"/home/polzuka/tranchat/src/site/views/admin/create-email-form.pug",
+		"/home/polzuka/tranchat/src/services/web-app.js",
+		"/home/polzuka/tranchat/src/site/views/faq.pug",
+		"/home/polzuka/tranchat/src/site/locales/ru.json",
+		"/home/polzuka/tranchat/src/db/migrations/V0004__word_count_and_is_translator.sql",
+		"/home/polzuka/tranchat/src/db/migrations/V0005__check_working_hours.sql",
+		"/home/polzuka/tranchat/src/db/models/users.js",
+		"/home/polzuka/tranchat/src/site/routes/account.js",
+		"/home/polzuka/tranchat/src/site/views/account-layout.pug",
+		"/home/polzuka/tranchat/src/site/views/translator-edit-form.pug",
+		"/home/polzuka/tranchat/src/services/default-translator.js",
+		"/home/polzuka/tranchat/src/site/views/chat-edit-form.pug",
+		"/home/polzuka/tranchat/src/site/views/user-settings.pug",
+		"/home/polzuka/tranchat/package.json",
+		"/home/polzuka/tranchat/docker/docker-compose.yml",
+		"/home/polzuka/tranchat/src/site/views/chat-creation-form.pug",
+		"/home/polzuka/tranchat/src/db/migrations/V0001__initial_schema.sql",
+		"/home/polzuka/tranchat/src/lib/ManagesMessages.js",
+		"/home/polzuka/tranchat/src/site/public/main.js",
+		"/home/polzuka/tranchat/src/site/views/account.pug",
+		"/home/polzuka/tranchat/src/config/Config.js",
+		"/home/polzuka/tranchat/src/site/views/mixins/index.pug",
+		"/home/polzuka/tranchat/src/site/views/message.pug",
+		"/home/polzuka/tranchat/.eslintignore",
+		"/home/polzuka/tranchat/src/services/message-sender.js",
+		"/home/polzuka/tranchat/src/services/task-sender.js",
+		"/home/polzuka/tranchat/src/services/time-checker.js",
+		"/home/polzuka/tranchat/src/site/views/mixins/message.pug",
+		"/home/polzuka/tranchat/src/services/app.js",
+		"/home/polzuka/tranchat/src/site/views/mixins/chat.pug",
+		"/home/polzuka/tranchat/src/services/sender.js",
+		"/home/polzuka/tranchat/src/site/public/chat.js",
+		"/home/polzuka/tranchat/src/db/models/translations.js",
+		"/home/polzuka/tranchat/src/lib/RendersTemplates.js",
+		"/home/polzuka/tranchat/src/site/routes/chat.js",
+		"/home/polzuka/tranchat/bin/start-service",
+		"/home/polzuka/tranchat/src/site/views/mixins/translation.pug",
+		"/home/polzuka/tranchat/src/lib/ManagesChats.js",
+		"/home/polzuka/tranchat/src/site/routes/home.js",
+		"/home/polzuka/metasite/src/detectors/ItemMatcher.js",
+		"/home/polzuka/chatstat/bin/processor.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "example-react-app.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"users",
+				"src/db/models/users.js"
+			],
+			[
+				"managesuse",
+				"src/lib/ManagesUsers.js"
+			],
+			[
+				"locals",
+				"src/site/middlewares/locals.js"
+			],
+			[
+				"ru",
+				"src/site/locales/ru.json"
+			],
+			[
+				"en.json",
+				"src/site/locales/en.json"
+			],
+			[
+				"faq/",
+				"src/site/views/faq/ru.pug"
+			],
+			[
+				"custom/js/main.js",
+				"src/site/public/custom/js/main.js"
+			],
+			[
+				"lay",
+				"src/site/views/layout.pug"
+			],
+			[
+				"faq",
+				"src/site/views/faq.pug"
+			],
+			[
+				"accou",
+				"src/site/views/account-layout.pug"
+			],
+			[
+				"loca",
+				"src/site/middlewares/locals.js"
+			],
+			[
+				"modeuse",
+				"src/db/models/users.js"
+			],
+			[
+				"manaus",
+				"src/lib/ManagesUsers.js"
+			],
+			[
+				"routeacc",
+				"src/site/routes/account.js"
+			],
+			[
+				"web",
+				"src/services/web-app.js"
+			],
+			[
+				"en.js",
+				"src/site/locales/en.json"
+			],
+			[
+				"ru.js",
+				"src/site/locales/ru.json"
+			],
+			[
+				"accountla",
+				"src/site/views/account-layout.pug"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"doc",
+				"docker/docker-compose.yml"
+			],
+			[
+				"moduser",
+				"src/db/models/users.js"
+			],
+			[
+				"task",
+				"src/services/task-sender.js"
+			],
+			[
+				"managesU",
+				"src/lib/ManagesUsers.js"
+			],
+			[
+				"webapp",
+				"src/services/web-app.js"
+			],
+			[
+				"webap",
+				"src/services/web-app.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"weba",
+				"src/services/web-app.js"
+			],
+			[
+				"defautra",
+				"src/services/default-translator.js"
+			],
+			[
+				"chat",
+				"src/site/public/chat.js"
+			],
+			[
+				"sender",
+				"src/services/sender.js"
+			],
+			[
+				"chat.js",
+				"src/site/public/chat.js"
+			],
+			[
+				"mixinmess",
+				"src/site/views/mixins/message.pug"
+			],
+			[
+				"main",
+				"src/site/public/main.js"
+			],
+			[
+				"send",
+				"src/services/sender.js"
+			],
+			[
+				"app",
+				"src/services/app.js"
+			],
+			[
+				"basedetect",
+				"src/detectors/BaseDetector.js"
+			],
+			[
+				"temnamescr",
+				"src/templates/names/scripts.js"
+			],
+			[
+				"templnamesscr",
+				"src/templates/names/scripts.js"
+			],
+			[
+				"hoster",
+				"src/templates/names/hosters.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

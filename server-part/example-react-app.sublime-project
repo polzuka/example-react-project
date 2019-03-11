@@ -13,10 +13,6 @@
 
     { "path": "node_modules/",
       "name": ":node_modules",
-      "binary_file_patterns": ["*"] },
-
-    { "path": ".git",
-      "name": ":git",
       "binary_file_patterns": ["*"] }
   ]
 }
