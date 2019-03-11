@@ -1,0 +1,49 @@
+root: true
+extends:
+  - '@fine-js/eslint-config'
+
+parserOptions:
+  ecmaVersion: 2018
+  sourceType: script
+  ecmaFeatures:
+    globalReturn: true
+    impliedStrict: false
+    jsx: true
+
+env:
+  es6: true
+  node: true
+  browser: false
+
+globals:
+  load: false
+
+overrides:
+  - files: ["*.test.js"]
+    env:
+      mocha: true
+
+  - files: ["src/site/public/**/*.js"]
+    env:
+      node: false
+      browser: true
+
+    globals:
+      $: false
+
+    rules:
+      no-console: warn
+
+rules:
+  semi: [error, always]
+  semi-style: [error, last]
+  new-cap: off
+  no-unused-vars: [error, {args: none}]
+  no-return-await: off
+  prefer-object-spread: off
+  no-await-in-loop: off
+  max-lines: off
+  consistent-return: off
+  max-lines-per-function: off
+  max-nested-callbacks: [error, 4]
+  no-constant-condition: [error, {checkLoops: false}]
